@@ -10,3 +10,14 @@ ipch
 /lib/boost*
 build
 .idea
+
+# Build output
+01spacecalibrator/
+CMakeFiles/
+compile_commands.json
+*.so
+*.a
+openvr-spacecalibrator
+Makefile
+*.cmake
+CMakeCache.txt
